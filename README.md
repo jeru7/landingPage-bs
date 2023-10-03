@@ -2,7 +2,7 @@
 
 ## Description
 
-First project I did using Bootstrap 5
+First time using Bootstrap 5 to make a website responsive.
 
 ## Live Site
 
