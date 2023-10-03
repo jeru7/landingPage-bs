@@ -10,8 +10,6 @@ Feel free to visit the live version of the tribute page: [Visit site](https://je
 
 ## Preview
 
-<<<<<<< HEAD
-
 ### Full shot
 
 ![Screenshot](spursfull.png "Full photo of the site")
