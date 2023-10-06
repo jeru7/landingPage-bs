@@ -21,7 +21,6 @@ Feel free to visit the live version of the tribute page: [Visit site](https://je
 ### Mobile shot
 
 ![Screenshot](spursmob.png "Mobile photo of the site")
-![Screenshot](tributepage.png "Sample photo of the site")
 
 ## Tech Stack
 
